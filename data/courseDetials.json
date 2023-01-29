@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "price": 2500,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU",
+        "course_description": "HTML tutorial or HTML 5 tutorial provides basic and advanced concepts of HTML. Our HTML tutorial is developed for beginners and professionals. In our tutorial, every topic is given step-by-step so that you can learn it in a very easy way. If you are new in learning HTML, then you can learn HTML from basic to a professional level and after learning HTML with CSS and JavaScript you will be able to create your own interactive and dynamic website. But Now We will focus on HTML only in this tutorial.",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 103,
+        "mainFeatures": [
+            "40 Videos",
+            "10 Quiz",
+            "1 Assignment",
+            "900+ Smart Notes",
+            "200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about html",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 1,
+                "video_name": "HTML FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CSS",
+        "price": 2000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "course_description": "CSS tutorial or CSS 3 tutorial provides basic and advanced concepts of CSS technology. Our CSS tutorial is developed for beginners and professionals. ",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 80,
+        "mainFeatures": [
+            "104 Videos",
+            "10 Quiz",
+            "1 Assignment",
+            "900+ Smart Notes",
+            "200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about css",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 2,
+                "video_name": "CSS FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "JAVA SCRIPT",
+        "price": 3500,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "course_description": "Our JavaScript Tutorial is designed for beginners and professionals both. JavaScript is used to create client-side dynamic pages.  JavaScript is an object-based scripting language which is lightweight and cross-platform. JavaScript is not a compiled language, but it is a translated language. The JavaScript Translator (embedded in the browser) is responsible for translating the JavaScript code for the web browser.",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 180,
+        "mainFeatures": [
+            "104 Videos",
+            "10 Quiz",
+            "1 Assignment",
+            "900+ Smart Notes",
+            "200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about java script",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 2,
+                "video_name": "JAVA SCRIPT FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=fBhxs9OHxtY&list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "REACT",
+        "price": 4500,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+        "course_description": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 180,
+        "mainFeatures": [
+            "104 Videos",
+            "10 Quiz",
+            "1 Assignment",
+            "900+ Smart Notes",
+            "200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about react",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 2,
+                "video_name": "REACT FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=9IdczKQNg3o&list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    }
+]

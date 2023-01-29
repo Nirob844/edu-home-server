@@ -13,56 +13,14 @@
     },
     {
         "id": 3,
-        "title": "BOOTSTRAP",
-        "price": 1000,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
-    },
-    {
-        "id": 4,
-        "title": "TAILWIND",
-        "price": 1000,
-        "url": "https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-        "id": 5,
-        "title": "STRUCTURED PROGRAMING",
-        "price": 2500,
-        "url": "https://onloadcode.com/wp-content/uploads/2020/12/What-is-Structured-programming-1024x576.png"
-    },
-    {
-        "id": 6,
         "title": "JAVA SCRIPT",
         "price": 3500,
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
     },
     {
-        "id": 7,
+        "id": 4,
         "title": "REACT",
         "price": 4500,
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
-    },
-    {
-        "id": 8,
-        "title": "FIREBASE",
-        "price": 4000,
-        "url": "https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"
-    },
-    {
-        "id": 9,
-        "title": "MONGODB",
-        "price": 4000,
-        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepaL9v8aYetQ3l68VaKVab0yBj4xPthGHvJKvbUEIyKngdDzyIxWEn-Aprn0lGNgJK_k&usqp=CAU"
-    },
-    {
-        "id": 10,
-        "title": "NODE JS",
-        "price": 4000,
-        "url": "https://softprodigy.com/wp-content/uploads/2019/06/nodejs-logo.png"
-    },
-    {
-        "id": 11,
-        "title": "EXPRESS JS",
-        "price": 4500,
-        "url": "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
     }
 ]
