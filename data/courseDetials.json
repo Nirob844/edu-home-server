@@ -16,7 +16,7 @@
             "200+ Diagram"
         ],
         "learnFeatures": [
-            "Everything you need to learn about html",
+            "Everything you need to learn about html <br>",
             "All resources including quiz, recorded class, notes etc",
             "Can join from anywhere",
             "Course validity: 2 months"
@@ -40,11 +40,11 @@
         "enrolledStudent": 1243,
         "hoursRequired": 80,
         "mainFeatures": [
-            "104 Videos",
-            "10 Quiz",
-            "1 Assignment",
-            "900+ Smart Notes",
-            "200+ Diagram"
+            "_104 Videos",
+            "__10 Quiz",
+            "__1 Assignment",
+            "__900+ Smart Notes",
+            "__200+ Diagram"
         ],
         "learnFeatures": [
             "Everything you need to learn about css",
@@ -71,11 +71,11 @@
         "enrolledStudent": 1243,
         "hoursRequired": 180,
         "mainFeatures": [
-            "104 Videos",
-            "10 Quiz",
-            "1 Assignment",
-            "900+ Smart Notes",
-            "200+ Diagram"
+            "_104 Videos",
+            "__10 Quiz",
+            "__1 Assignment",
+            "__900+ Smart Notes",
+            "__200+ Diagram"
         ],
         "learnFeatures": [
             "Everything you need to learn about java script",
@@ -96,17 +96,79 @@
         "id": 4,
         "title": "REACT",
         "price": 4500,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
-        "course_description": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.",
+        "url": "https://reactjs.org/logo-og.png",
+        "course_description": "Mongodb tutorial provides basic and advanced concepts of Mongodb. Currently, Mongodb is one of the most popular database front-end back-end libraries which has a strong foundation and a large community.",
         "instructor_name": "Anisul Islam",
         "enrolledStudent": 1243,
         "hoursRequired": 180,
         "mainFeatures": [
-            "104 Videos",
-            "10 Quiz",
-            "1 Assignment",
-            "900+ Smart Notes",
-            "200+ Diagram"
+            "_104 Videos",
+            "__10 Quiz",
+            "__1 Assignment",
+            "__900+ Smart Notes",
+            "__200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about react",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 2,
+                "video_name": "REACT FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=9IdczKQNg3o&list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "MONGODB",
+        "price": 4500,
+        "url": "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png",
+        "course_description": "Mongodb tutorial provides basic and advanced concepts of Mongodb. Currently, Mongodb is one of the most popular no sql database which has a strong foundation and a large community.",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 180,
+        "mainFeatures": [
+            "_104 Videos",
+            "__10 Quiz",
+            "__1 Assignment",
+            "__900+ Smart Notes",
+            "__200+ Diagram"
+        ],
+        "learnFeatures": [
+            "Everything you need to learn about react",
+            "All resources including quiz, recorded class, notes etc",
+            "Can join from anywhere",
+            "Course validity: 2 months"
+        ],
+        "course_content": [
+            {
+                "video_id": 2,
+                "video_name": "REACT FULL COURSE",
+                "video_embed_link": "https://www.youtube.com/watch?v=9IdczKQNg3o&list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8&ab_channel=AnisulIslam",
+                "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for beginner.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "NODE JS",
+        "price": 4500,
+        "url": "https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png",
+        "course_description": "NodeJs tutorial provides basic and advanced concepts of NodeJS. Currently, NodeJs is one of the most popular JavaScript back-end libraries which has a strong foundation and a large community.",
+        "instructor_name": "Anisul Islam",
+        "enrolledStudent": 1243,
+        "hoursRequired": 180,
+        "mainFeatures": [
+            "_104 Videos",
+            "__10 Quiz",
+            "__1 Assignment",
+            "__900+ Smart Notes",
+            "__200+ Diagram"
         ],
         "learnFeatures": [
             "Everything you need to learn about react",

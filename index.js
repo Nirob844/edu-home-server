@@ -18,10 +18,7 @@ app.get('/courses', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = singleCourse?.find(c => c.id === id);
-    if (!selectedCourse) {
-        res.send('khuje pai ni')
-    }
+    const selectedCourse = singleCourse?.find(c => c.id == id);
     res.send(selectedCourse);
 });
 
